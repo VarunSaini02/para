@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Para</string>
+    <string name="action_settings">Settings</string>
+    <string name="questions">Questions</string>
+    <string name="sarcasm">Sarcasm</string>
+    <string name="angry_child">Angry Child</string>
+    <string name="instruct">Instruct</string>
+    <string name="enter_question">Enter question</string>
+    <string name="enter_prompt">Enter prompt</string>
+    <string name="enter_instructions">Enter instructions</string>
+    <string name="empty" />
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="ask_questions">ASK QUESTIONS</string>
+    <string name="sarcasm_mode">SARCASM MODE</string>
+    <string name="angry_child_caps">ANGRY CHILD</string>
+    <string name="instruct_gpt_3">INSTRUCT GPT-3</string>
+    <string name="app_description">Answer any question in one paragraph or less</string>
+    <string name="question_prompt">Answer the following question in one paragraph:\n%1$s</string>
+    <string name="sarcasm_prompt">Respond to this with extreme sarcasm:\n%1$s</string>
+    <string name="child_prompt">Respond to this, but act like a child with anger issues:\n%1$s</string>
+    <string name="invalid_model_config">Invalid GPT-3 Model Configuration</string>
+</resources>
